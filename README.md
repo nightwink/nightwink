@@ -23,5 +23,12 @@
             <img width=100% src="https://64.media.tumblr.com/d732063abdf58cff91705a47010a97dd/25eed145fc099353-37/s640x960/16c12e41e7e8b74caa371192d7821388a8328860.pnj">
           </p>    
     <blockquote > ayayayayya </blockquote>
+    <img src="https://files.catbox.moe/okf29a.gif" width="50%" height="50%" align="left">
+<!-- dialog 1 , make sure ur icon pngs are 50x50 -->
+<p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" width="50" height="50" align="left"> <kbd><br>ooh ooh! he hit on teacher and got served!<br>&nbsp;  </kbd> </p>
+
+<!-- dialog 2 -->
+<p align="right"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/yusuke.png" width="50" height="50" align="right"> <kbd align="right"><br>dude?!?<br>&nbsp;  </kbd></p>
+<hr class="solid">
   </body>
 </html>
