@@ -27,8 +27,10 @@
           </p>    
     <blockquote > ayayayayya </blockquote>
     <br>
+    <hr class="solid">
+    
 <p align="left"> <img src="https://64.media.tumblr.com/2ebfaa408f7666d6f2e22bf0109b40a5/4cf17f5618c1739d-62/s75x75_c1/b3bdec00b97efbac06510628e02b2d79cf7c2178.jpg" width="50" height="50" align="left"> <kbd><br>ooh ooh! he hit on teacher and got served!<br>&nbsp;  </kbd> </p>
 <p align="right"> <img src="https://64.media.tumblr.com/0a03d1c9119a53195da6860215bb40bb/4cf17f5618c1739d-b3/s75x75_c1/10426b4940094d33cc3e385e0c980588c4e362e6.jpg" width="50" height="50" align="right"> <kbd align="right"><br>dude?!?<br>&nbsp;  </kbd></p>
-<hr class="solid">
   </body>
+  <hr class="solid">
 </html>
