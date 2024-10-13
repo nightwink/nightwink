@@ -23,7 +23,7 @@
             <img width=100% src="https://64.media.tumblr.com/d732063abdf58cff91705a47010a97dd/25eed145fc099353-37/s640x960/16c12e41e7e8b74caa371192d7821388a8328860.pnj">
           </p>    
     <blockquote > ayayayayya </blockquote>
-    <img src="https://i.pinimg.com/originals/eb/3a/9b/eb3a9b9cc6d1f08fc4c3e8f30e1417c8.gif" width="50%" height="50%" align="left">
+    <img src="" width="50%" height="50%" align="left">
 <!-- dialog 1 , make sure ur icon pngs are 50x50 -->
 <p align="left"> <img src="https://64.media.tumblr.com/2ebfaa408f7666d6f2e22bf0109b40a5/4cf17f5618c1739d-62/s75x75_c1/b3bdec00b97efbac06510628e02b2d79cf7c2178.jpg" width="50" height="50" align="left"> <kbd><br>ooh ooh! he hit on teacher and got served!<br>&nbsp;  </kbd> </p>
 
