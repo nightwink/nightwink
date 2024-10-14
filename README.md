@@ -26,7 +26,11 @@
     </p>
 <!-- divider -->
     <p align="center">
-   <br> ${\textsf{\color{#deab96}text + text}}$ 
+   <br> ${\textsf{\color{#EF3F29}text + text}}$ 
+   <br>
+   <br> ${\textsf{\color{#FBAC44}text + text}}$ 
+   <br>
+   <br> ${\textsf{\color{#446E52}text + text}}$ 
    <br>
     </p>
           <p align="center">
