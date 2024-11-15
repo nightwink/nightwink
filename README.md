@@ -5,6 +5,9 @@
     <h3 align="center">
       agustine . ୨ৎ
     </h3>
+    <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀✦⠀&color=red" />
+    </p>
     <hr class="solid">
       <p align="center">
       <a href="https://open.spotify.com/playlist/31gyzkJ1PtIc7NySwXlqeI?si=Br--U7k9SBON90_JZTZt8Q"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=19&duration=2000&pause=1000&color=F7A200&center=true&width=435&lines=hey!+tell+me+what+you+want+me+to+say%3F;you+know+i'm+stupid+for+youuuuuu" alt="Typing SVG" /></a>
