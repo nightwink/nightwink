@@ -5,9 +5,6 @@
     <h3 align="center">
       agustine . ୨ৎ
     </h3>
-    <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀✦⠀&color=red" />
-    </p>
     <hr class="solid">
       <p align="center">
       <a href="https://open.spotify.com/playlist/31gyzkJ1PtIc7NySwXlqeI?si=Br--U7k9SBON90_JZTZt8Q"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=19&duration=2000&pause=1000&color=F7A200&center=true&width=435&lines=hey!+tell+me+what+you+want+me+to+say%3F;you+know+i'm+stupid+for+youuuuuu" alt="Typing SVG" /></a>
@@ -82,6 +79,9 @@
 <!-- divider -->
     <p align="left"> <img src="https://64.media.tumblr.com/2ebfaa408f7666d6f2e22bf0109b40a5/4cf17f5618c1739d-62/s75x75_c1/b3bdec00b97efbac06510628e02b2d79cf7c2178.jpg" width="50" height="50" align="left"> <kbd><br>ooh ooh! he hit on teacher and got served!<br>&nbsp;  </kbd> </p>
     <p align="right"> <img src="https://64.media.tumblr.com/0a03d1c9119a53195da6860215bb40bb/4cf17f5618c1739d-b3/s75x75_c1/10426b4940094d33cc3e385e0c980588c4e362e6.jpg" width="50" height="50" align="right"> <kbd align="right"><br>dude?!?<br>&nbsp;  </kbd></p>
-  </body>
   <hr class="solid">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀✦⠀&color=red" />
+    </p>
+    </body>
 </html>
