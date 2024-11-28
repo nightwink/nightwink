@@ -23,6 +23,8 @@
       artist & musician !! carrd + sptfy
       <br>
       ╰━ osdd sys + pmdd & c-ptsd ノ
+      <br>
+      chaeya & birdflash enjoyers PLS INT AAA
     </p>
 <!-- divider -->
     <p align="center">
