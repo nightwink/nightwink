@@ -15,9 +15,9 @@
     </p>
     <p align="center">
       <br>
-      mynte / sevy [ ଳ ] — 16 ENTP filo
+      mynte / sevy⠀[ ଳ ]⠀—⠀16⠀!⠀entp , filo
       <br>     
-      ıllı tmasc genderfluid ⸜⸜ bi he/she
+      ıllı⠀genderfluid⠀# bi he/she
       <br>
       artist & musician !! 
       <br>
@@ -61,19 +61,6 @@
     </blockquote>
     <hr class="solid">
  <!-- divider -->
-    <p>
-    sys alters info
-    <br>
-    main interests: DC (YJ , TT , JLU , WFA , BCC) ATLA , genshin, haikyuu, idv, bsd
-    <br>
-    favs: wally west/kid flash , childe , mark twain , luca balsa , sokka , yato , ty lee , bokuto , beast boy
-    <br>
-    ships: BIRDFLASH , CHAEYA , bokuroo, tyzula, bbrae
-    <br>
-    BYI - i have trust issues, slow replies, low social battery and goes ia w/o warning
-    <br>
-    DNI - basic dni , pedo , rude/immature
-    </p>
     <img src="https://i.ibb.co/d5rHXJj/IMG-7314.gif" alt="star">
     <img src="https://i.ibb.co/hXWyqr8/IMG-5446.gif" alt="flash">
     <img src="https://i.ibb.co/QDXnmCd/IMG-6724.gif" alt="CD">
