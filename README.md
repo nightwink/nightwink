@@ -17,17 +17,18 @@
       <br>
       mynte / agustine⠀<img src="https://i.ibb.co/d5rHXJj/IMG-7314.gif" alt="star">⠀16⠀!⠀entp , filo
       <br>     
-      <img src="https://i.ibb.co/QDXnmCd/IMG-6724.gif" alt="CD">⠀genderfluid⠀#⠀he / she⠀<img src="https://i.ibb.co/hXWyqr8/IMG-5446.gif" alt="flash"> ⠀bisexual
       <br>
-      chaeya & birdflash enjoyers PLS INT AAA
+      <img src="https://i.ibb.co/QDXnmCd/IMG-6724.gif" alt="CD">⠀genderfluid⠀#⠀he / she⠀<img src="https://i.ibb.co/hXWyqr8/IMG-5446.gif" alt="flash"> ⠀bisexual
     </p>
+    <br>
 <p align="center">
             <img width=50% src="https://64.media.tumblr.com/7b0aacb0f5d73866bfec06e736faa8e9/fbdcb39ab14e4e2c-53/s400x600/7131c159f267d929121335bf87ce04a7808346af.gifv">
           </p>    
-<!-- divider -->
+    <br>
     <p align="center">
    ${\textsf{\color{#ba513a}rentry wip}}$
     </p> 
+    <br>
     <hr class="solid">
  <!-- divider -->
 <!-- divider -->
