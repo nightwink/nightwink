@@ -12,9 +12,9 @@
     </p>
     <p align="center">
       <br>
-      mynte / agustine⠀[ ✮ ]⠀—⠀16⠀!⠀entp , filo
+      mynte / agustine⠀<img src="https://i.ibb.co/d5rHXJj/IMG-7314.gif" alt="star">⠀16⠀!⠀entp , filo
       <br>     
-      ıllı⠀genderfluid⠀#⠀he / she⠀, ⠀bisexual
+      <img src="https://i.ibb.co/QDXnmCd/IMG-6724.gif" alt="CD">⠀genderfluid⠀#⠀he / she⠀<img src="https://i.ibb.co/hXWyqr8/IMG-5446.gif" alt="flash"> ⠀bisexual
       <br>
       chaeya & birdflash enjoyers PLS INT AAA
     </p>
@@ -54,9 +54,6 @@
     </blockquote>
     <hr class="solid">
  <!-- divider -->
-    <img src="https://i.ibb.co/d5rHXJj/IMG-7314.gif" alt="star">
-    <img src="https://i.ibb.co/hXWyqr8/IMG-5446.gif" alt="flash">
-    <img src="https://i.ibb.co/QDXnmCd/IMG-6724.gif" alt="CD">
 <!-- divider -->
     <p align="left"> <img src="https://64.media.tumblr.com/2ebfaa408f7666d6f2e22bf0109b40a5/4cf17f5618c1739d-62/s75x75_c1/b3bdec00b97efbac06510628e02b2d79cf7c2178.jpg" width="50" height="50" align="left"> <kbd><br>ooh ooh! he hit on teacher and got served!<br>&nbsp;  </kbd> </p>
     <p align="right"> <img src="https://64.media.tumblr.com/0a03d1c9119a53195da6860215bb40bb/4cf17f5618c1739d-b3/s75x75_c1/10426b4940094d33cc3e385e0c980588c4e362e6.jpg" width="50" height="50" align="right"> <kbd align="right"><br>dude?!?<br>&nbsp;  </kbd></p>
