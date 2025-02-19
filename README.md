@@ -26,11 +26,7 @@
           </p>    
 <!-- divider -->
     <p align="center">
-   <br> ${\textsf{\color{#EF3F29}text + text}}$ 
-   <br>
-   <br> ${\textsf{\color{#FBAC44}text + text}}$ 
-   <br>
-   <br> ${\textsf{\color{#446E52}text + text}}$ 
+   ${\textsf{\color{#EF3F29}mynte / agustine}}$ ⠀ ${\textsf{\color{#FBAC44}✮}}$ ⠀ ${\textsf{\color{#446E52}text + text}}$ 
    <br>
     </p> 
     <hr class="solid">
