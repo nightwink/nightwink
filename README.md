@@ -26,7 +26,7 @@
           </p>    
 <!-- divider -->
     <p align="center">
-   ${\textsf{\color{#EF3F29}mynte / agustine}}$ ⠀ ${\textsf{\color{#FBAC44}✮}}$ ⠀ ${\textsf{\color{#446E52}text + text}}$ 
+   ${\textsf{\color{#ba513a}mynte / agustine}}$ ⠀ ${\textsf{\color{#FBAC44}✮}}$ ⠀ ${\textsf{\color{#446E52}16⠀!⠀entp⠀,⠀filo}}$ 
    <br>
     </p> 
     <hr class="solid">
