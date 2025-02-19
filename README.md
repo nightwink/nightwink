@@ -26,8 +26,7 @@
           </p>    
 <!-- divider -->
     <p align="center">
-   ${\textsf{\color{#ba513a}mynte / agustine}}$ ⠀ ${\textsf{\color{#FBAC44}✮}}$ ⠀ ${\textsf{\color{#446E52}16⠀!⠀entp⠀,⠀filo}}$ 
-   <br>
+   ${\textsf{\color{#ba513a}rentry wip}}$
     </p> 
     <hr class="solid">
  <!-- divider -->
