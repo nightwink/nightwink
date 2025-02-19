@@ -2,6 +2,9 @@
 
 <html> 
   <body>
+    <p align="center">
+            <img width=100% src="https://64.media.tumblr.com/d732063abdf58cff91705a47010a97dd/25eed145fc099353-37/s640x960/16c12e41e7e8b74caa371192d7821388a8328860.pnj">
+          </p>    
     <br>
      <p align="center">
       <a href="https://open.spotify.com/playlist/31gyzkJ1PtIc7NySwXlqeI?si=Br--U7k9SBON90_JZTZt8Q"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=19&duration=2000&pause=1000&color=F7A200&center=true&width=435&lines=hey!+tell+me+what+you+want+me+to+say%3F;you+know+i'm+stupid+for+youuuuuu" alt="Typing SVG" /></a>
@@ -30,28 +33,6 @@
    <br> ${\textsf{\color{#446E52}text + text}}$ 
    <br>
     </p> 
-          <p align="center">
-            <img width=100% src="https://64.media.tumblr.com/d732063abdf58cff91705a47010a97dd/25eed145fc099353-37/s640x960/16c12e41e7e8b74caa371192d7821388a8328860.pnj">
-          </p>    
-    <blockquote > ponytown info
-      <br>
-    always c+h . feel free to int / hide
-      <br>
-    usually offtab so w2i
-      <br>
-    status: 
-      <br>
-    online - in game
-      <br>
-    away - offtab / making skins
-      <br>
-    don't disturb - iwc / busy
-      <br>
-    do NOT copy my skins >:p
-      <br>
-    i don't do srs rps 
-    <br>
-    </blockquote>
     <hr class="solid">
  <!-- divider -->
 <!-- divider -->
