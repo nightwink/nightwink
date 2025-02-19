@@ -2,10 +2,7 @@
 
 <html> 
   <body>
-    <h2 align="center">
-      agustine⠀✺
-    </h2>
-    <hr class="solid">
+    <br>
      <p align="center">
       <a href="https://open.spotify.com/playlist/31gyzkJ1PtIc7NySwXlqeI?si=Br--U7k9SBON90_JZTZt8Q"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=19&duration=2000&pause=1000&color=F7A200&center=true&width=435&lines=hey!+tell+me+what+you+want+me+to+say%3F;you+know+i'm+stupid+for+youuuuuu" alt="Typing SVG" /></a>
       </p>
@@ -15,13 +12,9 @@
     </p>
     <p align="center">
       <br>
-      mynte / sevy⠀[ ଳ ]⠀—⠀16⠀!⠀entp , filo
+      mynte / agustine⠀[ ✮ ]⠀—⠀16⠀!⠀entp , filo
       <br>     
-      ıllı⠀genderfluid⠀# bi he/she
-      <br>
-      artist & musician !! 
-      <br>
-      ╰━ osdd sys + pmdd & c-ptsd ノ
+      ıllı⠀genderfluid⠀#⠀he / she⠀, ⠀bisexual
       <br>
       chaeya & birdflash enjoyers PLS INT AAA
     </p>
