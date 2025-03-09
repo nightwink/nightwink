@@ -26,7 +26,7 @@
           </p>    
     <br>
     <p align="center">
-   ${\textsf{\color{#ba513a}rentry wip}}$
+   ${\textsf{\color{#ba513a}. co /malfunky}}$
     </p> 
     <br>
     <hr class="solid">
