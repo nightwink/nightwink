@@ -3,9 +3,7 @@
 <html> 
   <body>
     <img src="https://file.garden/Z4-KIXj5okOfzeyR/rentry/chihoco.gif">
-       <img height=400 width=210 align=right src="https://file.garden/Z4-KIXj5okOfzeyR/rentry/imagehfshs.gif">
-       <img height=400px width=5px align=right src="https://file.garden/Z4-KIXj5okOfzeyR/Transparent">
-          <p align="right"> <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀⠀⠀✦⠀⠀⠀&color=red"/> </p>
+          <p align="center"> <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀⠀⠀✦⠀⠀⠀&color=red"/> </p>
           <br> <p align="center"> ${\textsf{\color{#ba513a}. co /malfunky}}$ </p> 
           <details align="center"><summary><h3> $${\textsf{\color{#c94c87}assets credit:}}$$  </h3></summary>
           <p align="center"> childe banner by <a href="https://x.com/aeondrk/status/1708090001437905209/photo/3">@aeondrk</a> on twitter
