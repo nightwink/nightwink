@@ -7,7 +7,8 @@
           <br> <p align="center"> ${\textsf{\color{#ba513a}. co /malfunky}}$ </p> 
           <details align="center"><summary><h3> $${\textsf{\color{#9c5032}assets credit:}}$$  </h3></summary>
           <p align="center"> childe banner by <a href="https://x.com/aeondrk/status/1708090001437905209/photo/3">@aeondrk</a> on twitter
-          <br> x's divider by <a href="https://www.tumblr.com/pixopix/798305470131716096/hiiii-i-was-wondering-if-you-could-make-some-black">@pixopix</a> on tumblr </p></details>
+          <br> x's divider by <a href="https://www.tumblr.com/pixopix/798305470131716096/hiiii-i-was-wondering-if-you-could-make-some-black">@pixopix</a> on tumblr 
+          <br> childe pfp by <a href="https://www.instagram.com/p/DQLSjX5jwIF/?img_index=1">@nier_2548</a> on insta</p></details>
     <p align="center">
             <img width=100% src="https://64.media.tumblr.com/95655d1c479612be704cae01a1668b85/0ff9b949c03b18d8-83/s1280x1920/7ac6b63b27b4026024edbe58868a40dc317c484d.pnj">
           </p>    
