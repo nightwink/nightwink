@@ -9,9 +9,9 @@
           <p align="center"> childe banner by <a href="https://x.com/aeondrk/status/1708090001437905209/photo/3">@aeondrk</a> on twitter
           <br> x's divider by <a href="https://www.tumblr.com/pixopix/798305470131716096/hiiii-i-was-wondering-if-you-could-make-some-black">@pixopix</a> on tumblr 
           <br> childe pfp by <a href="https://www.instagram.com/p/DQLSjX5jwIF/?img_index=1">@nier_2548</a> on insta</p></details>
-    <p align="center">
-            <img width=100% src="https://64.media.tumblr.com/95655d1c479612be704cae01a1668b85/0ff9b949c03b18d8-83/s1280x1920/7ac6b63b27b4026024edbe58868a40dc317c484d.pnj">
-          </p>    
+    <p align="center"> <img width=100% src="https://64.media.tumblr.com/95655d1c479612be704cae01a1668b85/0ff9b949c03b18d8-83/s1280x1920/7ac6b63b27b4026024edbe58868a40dc317c484d.pnj"> </p>
+    <img align=left src="https://64.media.tumblr.com/c50bdf29db30a11b145ffa82f191ed31/3c74d06b377fdc9b-b2/s100x200/97fb2bb90fb707f0ff36f7031c8c90c3a2a1a675.pnj"> <img align=left  src="https://64.media.tumblr.com/08c25cf586ebfc7b5c814114bdbe2e1a/2eefe54d7a0658ab-3e/s100x200/e35705c152830b1b6713e667ca1ac0a98d047dec.jpg"> <img align=left src="https://64.media.tumblr.com/abad0cef236ae5fd5879602925c289af/e10473b4f89888d3-9b/s250x400/eaa5dd76ef9e31138bc97c3e45430466ccb77ce8.gifv"> <img align=left src="https://64.media.tumblr.com/17ec318719003afacc59ba8bc51a599a/b08a7d822e18cbed-be/s100x200/b47ef3113a5670cb9e3f5892a717200929ec3417.gifv">
+    <p align="center"> <img width=100% src="https://64.media.tumblr.com/95655d1c479612be704cae01a1668b85/0ff9b949c03b18d8-83/s1280x1920/7ac6b63b27b4026024edbe58868a40dc317c484d.pnj"> </p>
     <br>
      <p align="center">
       <a href="https://open.spotify.com/playlist/31gyzkJ1PtIc7NySwXlqeI?si=Br--U7k9SBON90_JZTZt8Q"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=19&duration=2000&pause=1000&color=F7A200&center=true&width=435&lines=hey!+tell+me+what+you+want+me+to+say%3F;you+know+i'm+stupid+for+youuuuuu" alt="Typing SVG" /></a>
