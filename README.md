@@ -2,6 +2,7 @@
 
 <html> 
   <body>
+    <img src="https://file.garden/Z4-KIXj5okOfzeyR/rentry/chihoco.gif">
     <img height=400 width=210 align=right src="https://file.garden/Z4-KIXj5okOfzeyR/rentry/imagehfshs.gif">
     <img height=400px width=5px align=right src="https://file.garden/Z4-KIXj5okOfzeyR/Transparent">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀⠀⠀✦⠀⠀⠀&color=red"/> </p>
