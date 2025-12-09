@@ -2,7 +2,7 @@
 
 <html> 
   <body>
-    <img height=400 width=350 align=right src="https://file.garden/Z4-KIXj5okOfzeyR/Transparent">
+    <img height=400 width=35% align=right src="https://file.garden/Z4-KIXj5okOfzeyR/Transparent">
     <img height=400 width=210 align=right src="https://file.garden/Z4-KIXj5okOfzeyR/rentry/imagehfshs.gif">
     <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀✦⠀&color=red" />
     <p align="center">
