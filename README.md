@@ -2,9 +2,9 @@
 
 <html> 
   <body>
-    <img height=400 width=35% align=right src="https://file.garden/Z4-KIXj5okOfzeyR/Transparent">
     <img height=400 width=210 align=right src="https://file.garden/Z4-KIXj5okOfzeyR/rentry/imagehfshs.gif">
-    <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀✦⠀&color=red" />
+    <img height=400 width=5px align=right src="https://file.garden/Z4-KIXj5okOfzeyR/Transparent">
+    <p align="right"> <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀✦⠀&color=red"/> </p>
     <p align="center">
             <img width=100% src="https://64.media.tumblr.com/d732063abdf58cff91705a47010a97dd/25eed145fc099353-37/s640x960/16c12e41e7e8b74caa371192d7821388a8328860.pnj">
           </p>    
