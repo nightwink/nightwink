@@ -5,7 +5,7 @@
     <img src="https://file.garden/Z4-KIXj5okOfzeyR/rentry/chihoco.gif">
           <p align="center"> <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀⠀⠀✦⠀⠀⠀&color=red"/> </p>
           <br> <p align="center"> ${\textsf{\color{#ba513a}. co /malfunky}}$ </p> 
-          <details align="center"><summary><h3> $${\textsf{\color{#c94c87}assets credit:}}$$  </h3></summary>
+          <details align="center"><summary><h3> $${\textsf{\color{#9c5032}assets credit:}}$$  </h3></summary>
           <p align="center"> childe banner by <a href="https://x.com/aeondrk/status/1708090001437905209/photo/3">@aeondrk</a> on twitter
           <br> x's divider by <a href="https://www.tumblr.com/pixopix/798305470131716096/hiiii-i-was-wondering-if-you-could-make-some-black">@pixopix</a> on tumblr </p></details>
     <p align="center">
