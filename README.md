@@ -11,7 +11,7 @@
       </p>
 <!-- divider -->
     <p align="center">
-      <img height=400 src="https://64.media.tumblr.com/d687b063901d05a9613008a6192553ad/4dc7f4eb67ce442a-5d/s1280x1920/95c8e8516deb404633e311d4821fac9a774c47f5.gifv">
+      <img height=400 align=left src="https://64.media.tumblr.com/d687b063901d05a9613008a6192553ad/4dc7f4eb67ce442a-5d/s1280x1920/95c8e8516deb404633e311d4821fac9a774c47f5.gifv">
     </p>
     <p align="center">
       <br>
