@@ -2,6 +2,7 @@
 
 <html> 
   <body>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀✦⠀&color=red" /> </p>
     <p align="center">
             <img width=100% src="https://64.media.tumblr.com/d732063abdf58cff91705a47010a97dd/25eed145fc099353-37/s640x960/16c12e41e7e8b74caa371192d7821388a8328860.pnj">
           </p>    
@@ -36,7 +37,7 @@
     <p align="right"> <img src="https://64.media.tumblr.com/0a03d1c9119a53195da6860215bb40bb/4cf17f5618c1739d-b3/s75x75_c1/10426b4940094d33cc3e385e0c980588c4e362e6.jpg" width="50" height="50" align="right"> <kbd align="right"><br>dude?!?<br>&nbsp;  </kbd></p>
   <hr class="solid">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀✦⠀&color=red" />
+    
     </p>
     </body>
 </html>
