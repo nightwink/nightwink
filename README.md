@@ -3,12 +3,15 @@
 <html> 
   <body>
     <img src="https://file.garden/Z4-KIXj5okOfzeyR/rentry/chihoco.gif">
-    <img height=400 width=210 align=right src="https://file.garden/Z4-KIXj5okOfzeyR/rentry/imagehfshs.gif">
-    <img height=400px width=5px align=right src="https://file.garden/Z4-KIXj5okOfzeyR/Transparent">
-    <p align="right"> <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀⠀⠀✦⠀⠀⠀&color=red"/> </p>
-    <br> <p align="center"> ${\textsf{\color{#ba513a}. co /malfunky}}$ </p> 
+       <img height=400 width=210 align=right src="https://file.garden/Z4-KIXj5okOfzeyR/rentry/imagehfshs.gif">
+       <img height=400px width=5px align=right src="https://file.garden/Z4-KIXj5okOfzeyR/Transparent">
+          <p align="right"> <img src="https://komarev.com/ghpvc/?username=nightwink&style=plastic&label=⠀⠀⠀✦⠀⠀⠀&color=red"/> </p>
+          <br> <p align="center"> ${\textsf{\color{#ba513a}. co /malfunky}}$ </p> 
+          <details align="center"><summary><h3> $${\textsf{\color{#c94c87}assets credit:}}$$  </h3></summary>
+          <p align="center"> childe banner by <a href="https://x.com/aeondrk/status/1708090001437905209/photo/3">@aeondrk</a> on twitter
+          <br> x's divider by <a href="https://www.tumblr.com/pixopix/798305470131716096/hiiii-i-was-wondering-if-you-could-make-some-black">@pixopix</a> on tumblr </p></details>
     <p align="center">
-            <img width=100% src="https://64.media.tumblr.com/d732063abdf58cff91705a47010a97dd/25eed145fc099353-37/s640x960/16c12e41e7e8b74caa371192d7821388a8328860.pnj">
+            <img width=100% src="https://64.media.tumblr.com/95655d1c479612be704cae01a1668b85/0ff9b949c03b18d8-83/s1280x1920/7ac6b63b27b4026024edbe58868a40dc317c484d.pnj">
           </p>    
     <br>
      <p align="center">
@@ -38,7 +41,5 @@
   <hr class="solid">
   <p align="center">
     </p>
-    <details><summary><h5> Olla </h5></summary>
-      <h5 align="center">AMIAAA</h5></details>
     </body>
 </html>
