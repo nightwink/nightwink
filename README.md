@@ -5,6 +5,10 @@
     <img src="https://file.garden/Z4-KIXj5okOfzeyR/rentry/chihoco.gif">
           <p align="center"> <img src="https://komarev.com/ghpvc/?username=nightwink&style=flat-square&label=⠀⠀⠀✦⠀⠀⠀&color=9e5241"/>
           <br> <h4 align="center"> ${\textsf{\color{#ba513a}UHMMM}}$ </h4>  </p>
+    <hr class="solid">
+          <p align="left"> <img src="https://64.media.tumblr.com/2ebfaa408f7666d6f2e22bf0109b40a5/4cf17f5618c1739d-62/s75x75_c1/b3bdec00b97efbac06510628e02b2d79cf7c2178.jpg" width="50" height="50" align="left"> <kbd><br>ooh ooh! he hit on teacher and got served!<br>&nbsp;  </kbd> </p>
+          <p align="right"> <img src="https://64.media.tumblr.com/0a03d1c9119a53195da6860215bb40bb/4cf17f5618c1739d-b3/s75x75_c1/10426b4940094d33cc3e385e0c980588c4e362e6.jpg" width="50" height="50" align="right"> <kbd align="right"><br>dude?!?<br>&nbsp;  </kbd></p>
+    <hr class="solid">
     <p align="center"> <img width=100% src="https://64.media.tumblr.com/95655d1c479612be704cae01a1668b85/0ff9b949c03b18d8-83/s1280x1920/7ac6b63b27b4026024edbe58868a40dc317c484d.pnj"> </p>
      <p align="center"> <img src="https://64.media.tumblr.com/c50bdf29db30a11b145ffa82f191ed31/3c74d06b377fdc9b-b2/s100x200/97fb2bb90fb707f0ff36f7031c8c90c3a2a1a675.pnj">
      <img src="https://64.media.tumblr.com/08c25cf586ebfc7b5c814114bdbe2e1a/2eefe54d7a0658ab-3e/s100x200/e35705c152830b1b6713e667ca1ac0a98d047dec.jpg">
